@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+tmp/
+*.log
+.idea/
+coverage/
+dist/
+bower_components/
+resources/
